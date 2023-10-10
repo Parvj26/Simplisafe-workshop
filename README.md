@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="images/fanduel.png" width=50% height=50%>
+    <img src="images/SimpliSafe-wordmark-RGB-BlueYellow.png" width=50% height=50%>
 </div>
 
 
